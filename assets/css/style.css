@@ -5,12 +5,13 @@
 
 .content-button {
     height: 360px; 
-    width: 864px; 
+    width: 884px; 
     background-color: #c3c5cc; 
     border-radius: 10px;
     display: flex;
     justify-content: center;
     margin: auto !important;
+    padding: 10px !important;
 }
 
 .button-keyboard {
